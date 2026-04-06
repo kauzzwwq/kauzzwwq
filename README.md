@@ -31,5 +31,6 @@ Meu objetivo é Aprender sobre a aréa de programação , para entrar no mercado
 
 Aqui estão alguns projetos que desenvolvi durante meus estudos:
 
-📌 Projeto 1 – Mundo SENAI -Em breve- 
-📌 Outros projetos -Em breve-
+📌 Projeto 1 – Meu site 
+📌 Projeto 2 - Refrigerantes
+📌 Projeto 3 - Mundo Senai - Em Breve - 
