@@ -33,4 +33,5 @@ Aqui estão alguns projetos que desenvolvi durante meus estudos:
 
 📌 Projeto 1 – Meu site 
 📌 Projeto 2 - Refrigerantes
-📌 Projeto 3 - Mundo Senai - Em Breve - 
+📌 Projeto 3 - Nike
+📌 Projeto 4 - Mundo SENAI -Em Breve-
