@@ -8,7 +8,7 @@ DevKauãConstantini
 ### Em Português:🟩🟨🟦
 ### Olá! Meu nome é Kauã Constantini.😁🖐
 
-🖥️ -Atualmente estudo as linguagens de programação, estou me aventurando nela e curtindo pra caramba. Eu estou aprendendo JavaScript!🤓🧠
+🖥️ -Atualmente estudo as linguagens de programação, estou me aventurando nela e evoluindo. Eu estou aprendendo JavaScript!🤓🧠
 
 📪 -Contate-me no meu e-mail!: kaua_c_garcia@estudante.sesisenai.org.br
 
