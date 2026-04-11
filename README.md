@@ -2,7 +2,7 @@ DevKauãConstantini
 # Hey there👋, Welcome to my Github Profile ༼ つ ◕_◕ ༽つ 
 
 <p>
-  <a href="[https://portfolio-dev-gustavo-gantois.vercel.app/?fbclid=PAZXh0bgNhZW0CMTEAAaegYkZtkgs8AtO0GIOTauXUq5bQaGK2Np2UTD2Y6chnIdtOedWqiAp8ko-eqg_aem_GoD20I807X6MB5iqylPdag](https://kauzzwwq.github.io/projeto1/)" target=" _blank">Acesse meu Website </a>
+  <a href="https://portfolio-dev-gustavo-gantois.vercel.app/?fbclid=PAZXh0bgNhZW0CMTEAAaegYkZtkgs8AtO0GIOTauXUq5bQaGK2Np2UTD2Y6chnIdtOedWqiAp8ko-eqg_aem_GoD20I807X6MB5iqylPdag(https://kauzzwwq.github.io/projeto1/)" target=" _blank">Acesse meu Website </a>
 </p>
  
 ### Em Português:🟩🟨🟦
@@ -17,7 +17,7 @@ DevKauãConstantini
  ### In english:🟥🟦
 
  <p>
-  <button><a href="[https://portfolio-dev-gustavo-gantois.vercel.app/?fbclid=PAZXh0bgNhZW0CMTEAAaegYkZtkgs8AtO0GIOTauXUq5bQaGK2Np2UTD2Y6chnIdtOedWqiAp8ko-eqg_aem_GoD20I807X6MB5iqylPdag](https://kauzzwwq.github.io/projeto1/)" target=" _blank">Acess my Website </a></button>
+  <button><a href="https://portfolio-dev-gustavo-gantois.vercel.app/?fbclid=PAZXh0bgNhZW0CMTEAAaegYkZtkgs8AtO0GIOTauXUq5bQaGK2Np2UTD2Y6chnIdtOedWqiAp8ko-eqg_aem_GoD20I807X6MB5iqylPdag(https://kauzzwwq.github.io/projeto1/)" target=" _blank">Acess my Website </a></button>
 </p>
 
 ### Hello! My name is Kauã Constantini.😁🖐
@@ -49,7 +49,7 @@ I'm competitive not with others, but with myself, to always improve and be my be
 
 ### The informations in my bio of GitHub too:
 
-![Kauzzwwq]([https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=whitehttps://web.whatsapp.com/](http://api.whatsapp.com/send/?phone=5549999695059&text&type=phone_number&app_absent=0)) 👇 
+![Kauzzwwq](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=whitehttps://web.whatsapp.com/)(http://api.whatsapp.com/send/?phone=5549999695059&text&type=phone_number&app_absent=0)) 👇 
 
 📞Caso queiram falar comigo profissionalmente.0
 
@@ -73,7 +73,7 @@ https://web.whatsapp.com/
 ### My instagram:
 
 
-<a href="[https://www.instagram.com/gucaria_?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==](https://www.instagram.com/k._constantini/)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/gucaria_?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" (https://www.instagram.com/k._constantini/)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 
 
