@@ -61,8 +61,7 @@ https://web.whatsapp.com/
 
 # Kauã Constantini(Kauzzwwq)
 
-![https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox]
-(https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=whitehttps://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox) 
+![https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=whitehttps://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox) 
 📪Meu e-mail para contato como dito lá em cima.
 
 📪My contact email as mentioned above.
