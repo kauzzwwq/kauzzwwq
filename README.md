@@ -49,7 +49,7 @@ I'm competitive not with others, but with myself, to always improve and be my be
 
 ### The informations in my bio of GitHub too:
 
-![Kauzzwwq](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=whitehttps://web.whatsapp.com/)(http://api.whatsapp.com/send/?phone=5549999695059&text&type=phone_number&app_absent=0)) 👇 
+![Kauzzwwq]<br>(https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=whitehttps://web.whatsapp.com/)(http://api.whatsapp.com/send/?phone=5549999695059&text&type=phone_number&app_absent=0)) 👇 
 
 📞Caso queiram falar comigo profissionalmente.0
 
