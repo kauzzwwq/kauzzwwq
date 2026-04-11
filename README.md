@@ -49,7 +49,7 @@ I'm competitive not with others, but with myself, to always improve and be my be
 
 ### The informations in my bio of GitHub too:
 
-![Kauzzwwq]<br>(https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=whitehttps://web.whatsapp.com/)(http://api.whatsapp.com/send/?phone=5549999695059&text&type=phone_number&app_absent=0)) 👇 
+![Kauzzwwq](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=whitehttps://web.whatsapp.com/) 👇 
 
 📞Caso queiram falar comigo profissionalmente.0
 
@@ -61,7 +61,7 @@ https://web.whatsapp.com/
 
 # Kauã Constantini(Kauzzwwq)
 
-![https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox]<br>
+![https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox]
 (https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=whitehttps://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox) 
 📪Meu e-mail para contato como dito lá em cima.
 
