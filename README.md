@@ -2,7 +2,7 @@ DevKauãConstantini
 # Hey there👋, Welcome to my Github Profile ༼ つ ◕_◕ ༽つ 
 
 <p>
-  <a href="(https://kauzzwwq.github.io/projeto1/)" target=" _blank">Acesse meu Website </a>
+  <a href="https://kauzzwwq.github.io/projeto1/" target=" _blank">Acesse meu Website </a>
 </p>
  
 ### Em Português:🟩🟨🟦
