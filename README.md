@@ -2,7 +2,7 @@ DevKauãConstantini
 # Hey there👋, Welcome to my Github Profile ༼ つ ◕_◕ ༽つ 
 
 <p>
-  <a href="https://portfolio-dev-gustavo-gantois.vercel.app/?fbclid=PAZXh0bgNhZW0CMTEAAaegYkZtkgs8AtO0GIOTauXUq5bQaGK2Np2UTD2Y6chnIdtOedWqiAp8ko-eqg_aem_GoD20I807X6MB5iqylPdag(https://kauzzwwq.github.io/projeto1/)" target=" _blank">Acesse meu Website </a>
+  <a href="(https://kauzzwwq.github.io/projeto1/)" target=" _blank">Acesse meu Website </a>
 </p>
  
 ### Em Português:🟩🟨🟦
