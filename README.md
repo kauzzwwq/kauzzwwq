@@ -17,7 +17,7 @@ DevKauãConstantini
  ### In english:🟥🟦
 
  <p>
-  <button><a href="https://portfolio-dev-gustavo-gantois.vercel.app/?fbclid=PAZXh0bgNhZW0CMTEAAaegYkZtkgs8AtO0GIOTauXUq5bQaGK2Np2UTD2Y6chnIdtOedWqiAp8ko-eqg_aem_GoD20I807X6MB5iqylPdag(https://kauzzwwq.github.io/projeto1/)" target=" _blank">Acess my Website </a></button>
+  <button> <a href="https://kauzzwwq.github.io/projeto1/" target=" _blank">Acess my Website </a></button>
 </p>
 
 ### Hello! My name is Kauã Constantini.😁🖐
