@@ -2,7 +2,7 @@ DevKauãConstantini
 # Hey there👋, Welcome to my Github Profile ༼ つ ◕_◕ ༽つ 
 
 <p>
-  <a href="https://kauzzwwq.github.io/projeto1/](https://kauzzwwq.github.io/portifolio/" target=" _blank">Acesse meu Website </a>
+  <a href="https://kauzzwwq.github.io/portifolio/" target="_blank">Acesse meu Website</a>
 </p>
  
 ### Em Português:🟩🟨🟦
@@ -17,7 +17,7 @@ DevKauãConstantini
  ### In english:🟥🟦
 
  <p>
-  <button> <a href="https://kauzzwwq.github.io/projeto1/" target=" _blank">Acess my Website </a></button>
+  <a href="https://kauzzwwq.github.io/portifolio/" target="_blank">Access my Website</a>
 </p>
 
 ### Hello! My name is Kauã Constantini.😁🖐
@@ -108,4 +108,3 @@ https://web.whatsapp.com/
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 ![Laragon](https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=laragon&logoColor=white)
 ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
