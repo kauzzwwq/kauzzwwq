@@ -51,7 +51,7 @@ I'm competitive not with others, but with myself, to always improve and be my be
 
 ![Kauzzwwq](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=whitehttps://web.whatsapp.com/) 👇 
 
-📞Caso queiram falar comigo profissionalmente.0
+📞Caso queiram falar comigo profissionalmente.
 
 📞If you want to talk to me professionally.
 
